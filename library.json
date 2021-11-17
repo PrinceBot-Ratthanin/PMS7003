@@ -1,0 +1,16 @@
+{
+  "name" : "PMS7003",
+  "title": "PMS7003",
+  "category" : "Sensors",
+  "keywords": "PMS7003,pm2.5,PM2.5,PM,pm",
+  "description": "เซ็นเซอร์วัดฝุ่นขนาด PM1.0 PM2.5 PM10",
+  "homepage": "https://github.com/fu-hsi/PMS",
+  "license": "MIT",
+  "git": "https://github.com/PrinceBot-Ratthanin/PMS7003/",
+  "author": "Mariusz Kacki |  Block by PrinceBot",
+  "url": "https://github.com/fu-hsi/PMS",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/display.png"
+}
